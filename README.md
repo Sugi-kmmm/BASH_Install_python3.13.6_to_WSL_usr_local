@@ -44,13 +44,15 @@ hint: See PEP 668 for the detailed specification.
 |```pip3.13.6```|```pip3```|
 
 ## 使用方法
-Bashファイルをダウンロードしたディレクトリで以下のコマンドを実行
+Bashファイルをダウンロードしたディレクトリで以下のコマンドを実行することで，本Bashファイルが実行できます．
 ```
 source install_python3.13.6_to_usr_local.sh
 ```
 
 ## 免責
 本Bashを使用したことにより発生するいかなる問題に対しても，開発者は責任を負いかねます．
+
+一応，開発者のPC環境において，正常に動作することは確認済みです．
 
 ## 開発者情報
 開発者は[こちら](https://sugi-kmmm.github.io/)
