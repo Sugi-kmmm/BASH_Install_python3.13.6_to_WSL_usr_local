@@ -29,7 +29,7 @@ make -j$(nproc)
 sudo make altinstall
 
 echo '' >> ~/.bashrc
-echo 'alias python3.13.6="/usr/local/bin/python3.13"' >> ~/.bashrc
-echo 'alias pip3.13.6="/usr/local/bin/python3.13 -m pip"' >> ~/.bashrc
+echo 'alias python_ul="/usr/local/bin/python3.13"' >> ~/.bashrc
+echo 'alias pip_ul="/usr/local/bin/python3.13 -m pip"' >> ~/.bashrc
 echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
