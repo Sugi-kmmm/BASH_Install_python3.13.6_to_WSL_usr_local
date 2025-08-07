@@ -43,6 +43,12 @@ hint: See PEP 668 for the detailed specification.
 |```python3.13.6```|```python3```|
 |```pip3.13.6```|```pip3```|
 
+## 使用方法
+Bashファイルをダウンロードしたディレクトリで以下のコマンドを実行
+```
+source install_python3.13.6_to_usr_local.sh
+```
+
 ## 免責
 本Bashを使用したことにより発生するいかなる問題に対しても，開発者は責任を負いかねます．
 
