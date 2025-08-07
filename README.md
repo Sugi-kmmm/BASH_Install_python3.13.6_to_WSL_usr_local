@@ -46,7 +46,7 @@ hint: See PEP 668 for the detailed specification.
 ## 使用方法
 Bashファイルをダウンロードしたディレクトリで以下のコマンドを実行することで，本Bashファイルが実行できます．
 ```
-source install_python3.13.6_to_usr_local.sh
+source local_python_installer.sh
 ```
 
 ## 免責
