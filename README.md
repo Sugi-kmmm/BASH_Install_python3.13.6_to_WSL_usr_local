@@ -38,10 +38,10 @@ hint: See PEP 668 for the detailed specification.
 ## 新たなコマンド
 以下の2つのコマンドが追加される
 
-|コマンド|対応する元のpythonコマンド|
-|:--:|:--:|
-|```python3.13.6```|```python3```|
-|```pip3.13.6```|```pip3```|
+|コマンド|対応する元のpythonコマンド|役割|
+|:--:|:--:|:--|
+|```python_ul```|```python3```|Python のプログラムを実行する|
+|```pip_ul```|```pip3```|Python のライブラリ（パッケージ）を PyPI（Python Package Index）からインストール・管理する|
 
 ## 使用方法
 Bashファイルをダウンロードしたディレクトリで以下のコマンドを実行することで，本Bashファイルが実行できます．
